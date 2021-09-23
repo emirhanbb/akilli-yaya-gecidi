@@ -17,3 +17,7 @@ veriCek() isimli fonksiyon, Google Firebase üzerinde koşan Realtime Database'd
 ![](https://i.hizliresim.com/iad6g3l.png)
 <center>Firebase Veritabanına Yazılan Veriler</center>
 
+## Ekran Görüntüsü
+![](https://i.hizliresim.com/848y6uv.png)
+
+
