@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11796350340",
+    "project_id": "gozumsun-987c1",
+    "storage_bucket": "gozumsun-987c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11796350340:android:e9b057c9860193c4d709d1",
+        "android_client_info": {
+          "package_name": "com.example.gozumsun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11796350340-bjg57vgum6pu4qvtrac7m4eu19976s6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4U0dHYHArxCSWMptF-A1whMiXa93994"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11796350340-bjg57vgum6pu4qvtrac7m4eu19976s6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
